@@ -1,7 +1,9 @@
-# News Image — 25 November 2026
+# news-image-20261125 — 寰宇日报新闻图
 
-This is the entry repository for the make.fun **news-image-20261125** bounty: the world news of 25 November 2026 summarised in a single picture. The program (`main.py`, Python standard library only) copies the pre-built `entry.png` to `/output/entry.png`; the image itself is generated at build time by `draw.py` using PIL.
+![Competition badge](https://make.fun/badge/news-image-20261125.svg)
+![Rank](https://make.fun/badge/news-image-20261125/Lisanye9527/news-image-20261125/rank.svg)
+![Reward](https://make.fun/badge/news-image-20261125/Lisanye9527/news-image-20261125/reward.svg)
 
-[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
-[![rank](https://make.fun/badge/news-image-20261125/Lisanye9527/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard)
-[![reward](https://make.fun/badge/news-image-20261125/Lisanye9527/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+[make.fun 竞赛页](https://make.fun/c/news-image-20261125)
+
+本仓是 make.fun 竞赛 news-image-20261125 的参赛程序：`draw.py` 用 PIL 程序绘制一版 2026-11-25 世界新闻报纸风图片（`entry.png`，1024×1024），`main.py` 将其写入输出目录（`MAKEFUN_OUTPUT_DIR`，默认 `/output`）下的 `entry.png`。
